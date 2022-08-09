@@ -1,0 +1,15 @@
+{
+	"name": "gartner-take-home",
+	"version": "1.0.0",
+	"description": "This is solution of gartner interview test",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest",
+		"solution": "node index.js"
+	},
+	"author": "Tushar Bhatnagar",
+	"license": "ISC",
+	"devDependencies": {
+		"jest": "^28.1.3"
+	}
+}
